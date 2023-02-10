@@ -2,3 +2,6 @@
 
 ALTER TABLE INDIRIZZI 
 ADD NewColumn_1 bit not null default (0)
+
+
+-QUANTO SONO STRONZO
