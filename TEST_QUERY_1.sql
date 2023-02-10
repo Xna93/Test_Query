@@ -1,4 +1,4 @@
--- PROVA TEST
+-- PROVA TEST 1
 
 ALTER TABLE INDIRIZZI 
 ADD NewColumn_1 bit not null default (0)
